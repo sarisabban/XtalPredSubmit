@@ -7,7 +7,7 @@ This script takes a .pdb protein structure file and submits its FASTA sequence t
 ## Requirements:
 Use the following commands (in GNU/Linux) to install all nessesary programs and Python libraries for this script to run successfully:
 
-`sudo apt install python3-pip -y && sudo python3 -m pip install biopython bs4`
+`sudo apt install python3-pip python-lxml -y && sudo python3 -m pip install biopython bs4`
 
 ## How To Use:
 Use the following command to run the script:
